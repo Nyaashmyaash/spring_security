@@ -8,7 +8,7 @@ public class MyController {
 
     @GetMapping("/")
     public String getInfoForAllEmployees() {
-        return "view_for_employees";
+        return "view_for_all";
     }
 
     @GetMapping("/hr_info")

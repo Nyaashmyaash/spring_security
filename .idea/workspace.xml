@@ -10,13 +10,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b78b18af-3cd0-4528-9612-5f3ea5204f9e" name="Default Changelist" comment="add changes">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nyash/spring/security/configuration/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nyash/spring/security/controller/MyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_for_employees.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_for_hr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_for_managers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_for_all.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_for_hr.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_for_managers.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nyash/spring/security/configuration/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nyash/spring/security/configuration/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nyash/spring/security/configuration/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nyash/spring/security/configuration/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nyash/spring/security/controller/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nyash/spring/security/controller/MyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_for_employees.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_for_hr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_for_managers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nyash/spring/security/configuration/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nyash/spring/security/configuration/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nyash/spring/security/configuration/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nyash/spring/security/configuration/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nyash/spring/security/controller/MyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nyash/spring/security/controller/MyController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring_security/WEB-INF/classes/com/nyash/spring/security/configuration/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring_security/WEB-INF/classes/com/nyash/spring/security/configuration/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring_security/WEB-INF/classes/com/nyash/spring/security/configuration/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring_security/WEB-INF/classes/com/nyash/spring/security/configuration/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring_security/WEB-INF/classes/com/nyash/spring/security/controller/MyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring_security/WEB-INF/classes/com/nyash/spring/security/controller/MyController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +39,7 @@
       <list>
         <option value="Class" />
         <option value="HTML File" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -54,6 +66,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Germes" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -168,7 +181,9 @@
       <updated>1623191681262</updated>
       <workItem from="1623191682507" duration="1541000" />
       <workItem from="1623193232736" duration="185000" />
-      <workItem from="1623256930062" duration="5327000" />
+      <workItem from="1623256930062" duration="10985000" />
+      <workItem from="1623348890905" duration="1836000" />
+      <workItem from="1623408663099" duration="11959000" />
     </task>
     <task id="LOCAL-00001" summary="add changes">
       <created>1623192186859</created>
@@ -184,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623264428182</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add changes">
+      <created>1623276821531</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623276821531</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
